@@ -1,5 +1,5 @@
 
-# Evolution Editor Demo
+# Evolution Editor (Demo)
 
 This project is a [live demo](https://evolution-editor-demo.vercel.app/) of the npm package [`@evolution-james/evolution-editor`](https://www.npmjs.com/package/@evolution-james/evolution-editor).
 
